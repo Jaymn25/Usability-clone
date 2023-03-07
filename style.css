@@ -439,6 +439,14 @@ header {
 
 @media screen and (max-width: 479px) {
 
+    
+   .ham-icon {
+   
+        right: 10px;
+        top: 120px;
+        
+
+    }
     h1 {
         font-size: 2rem;
     }
